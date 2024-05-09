@@ -66,12 +66,7 @@ flutter:
     - assets/images/PB-2.jpg
     #- assets/images/dice-3.png
     - assets/images/PB-3.jpg
-    #- assets/images/dice-4.png
-    #- assets/images/CL-4.jpg
-    #- assets/images/dice-5.png
-    #- assets/images/CL-5.jpg
-    #- assets/images/dice-6.png
-     #- assets/images/CL-6.jpg
+    
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
